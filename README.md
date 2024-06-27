@@ -3,10 +3,10 @@ Crime Trends in Austin: Monthly Insights from 2003 to 2023
 
 # Our Team 
 ---------------------
-* Julie Ramsey (Auto Analysis)
-* Prashant Chintakindi (Identity Theft Analysis and Reporting)
-* Sarah Dutton (Crime Analysis)
-  
+* Julie Ramsey (Data Pull and Auto Analysis)
+* Prashant Chintakindi (Identity Theft Analysis,Report and Readme)
+* Sarah Dutton (Crime Analysis and Statitical Analysis)
+     
 # Project Description
 
 

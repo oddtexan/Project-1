@@ -21,14 +21,14 @@ See included PowerPoint for summary of key findings and visualizations.
 <https://data.austintexas.gov> (Crime Type, Occurance Dates). More details are available inside the Data folder of repo.
 
 ## Breakdown of Tasks
-* 1 Get Datasets for Austin Crime
-* 2 Clean the datasets. Keep only data between year 2003 to 2023.
-* 3 Breakdown & Analyze Data Sets.
-* 4 Identity Theft Analysis
-5 Crime Analysis
-6
-7
-8 Auto Theft Analysis
+Markup : 1. Get Datasets for Austin Crime
+         2. Clean the datasets. Keep only data between year 2003 to 2023.
+         3. Breakdown and Analyze Data Sets.
+         4. Crime Analysis
+         5. Auto Theft Analysis
+         6. Identity Theft Analysis
+         7. Conclusion
+
 
 ## Tools and Techniques:
 1 Pandas

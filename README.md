@@ -3,7 +3,7 @@ Crime Trends in Austin: Seasonal Insights from 2003 to 2023
 
 ## Our Team 
 * Julie Ramsey (Data and Auto Analysis)
-* Prashant Chintakindi (Identity Theft Analysis, Report and Readme)
+* Prashant Chintakindi (Identity Theft Analysis, Presentation deck and Readme)
 * Sarah Dutton (Crime Analysis and Statitical Analysis)
      
 ## Project Description
@@ -20,6 +20,14 @@ See included PowerPoint for summary of key findings and visualizations.
 ## Data Source
 <https://data.austintexas.gov> (Crime Type, Occurance Dates). More details are available inside the Data folder of repo.
 
+## Resources
+1. Python Documentation and Tutorials
+2. Python Libraries and Packages
+3. Development Tools: Visual Studio Code
+4. Version Control: Git and Github
+5. Collaboration and Communication: Slack and Zoom
+6. Instructional Staff: Travis Hopkins (Instructor) and Kian Layson (TA)      
+
 ## Breakdown of Tasks
 1. Get Datasets for Austin Crime
 2. Clean the datasets. Keep only data between year 2003 to 2023.
@@ -35,8 +43,8 @@ See included PowerPoint for summary of key findings and visualizations.
 3. Matplotlib
 
 ## Hypothesis
-H-Null: If seasons are not related to different drimes, then Winter months will not see an increase in crimes.
-H-Alt: If seasons are related to different drimes, then Winter months will show an increase in crimes.
+* H-Null: If seasons are not related to different drimes, then Winter months will not see an increase in crimes.
+* H-Alt: If seasons are related to different drimes, then Winter months will show an increase in crimes.
 
 ## Our Findings
 * Seasons do influence crime in residential burglaries, auto thefts, bicycle thefts, and identity theft.

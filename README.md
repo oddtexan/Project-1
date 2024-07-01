@@ -47,8 +47,7 @@ See included PowerPoint for summary of key findings and visualizations.
 * H-Alt: If seasons are related to different drimes, then Winter months will show an increase in crimes.
 
 ## Our Findings
-* Seasons do influence crime in residential burglaries, auto thefts, bicycle thefts, and identity theft.
-* Seasons do NOT impact shoplifting incidences
+* Seasons do influence crime in residential burglaries, shoplifting incidences, auto thefts, bicycle thefts, and identity theft.
 * The total number of crimes have been steadily decreasing.
 * Overall, Austin may not necessarily be a violent city. This study might lend itself better to cities where violent crime is a major problem like Chicago.
 

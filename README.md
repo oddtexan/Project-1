@@ -7,16 +7,18 @@ Crime Trends in Austin: Seasonal Insights from 2003 to 2023
 * Sarah Dutton (Crime Analysis and Statitical Analysis)
      
 ## Project Description
-
-
-## Hypothesis
-
+Our group sought to uncover trends in crimes reported to Austin Police Department. Data was obtained from the city's public API to access all official police reports recorded in Austin throughout the period between 2003-2023. In this analysis, we have explored the dataset and gained insights into various aspects of crime in Austin. We used various Python libraries to analyze the data and create visualizations of our findings.
 
 ## Research Questions to Answer
 
+* How do seasonal variations impact the occurrence of different types of crimes in Austin?
+* How has crime evolved over the years as Austin continues to grow?
+* Which seasons have the most occurrences of crime?
+
+See included PowerPoint for summary of key findings and visualizations.
 
 ## Data Source
-<https://data.austintexas.gov> (Crime Type, Occurance Dates)
+<https://data.austintexas.gov> (Crime Type, Occurance Dates). More details are available inside the Data folder of repo.
 
 ## Breakdown of Tasks
 1 Get Datasets for Austin Crime
@@ -32,6 +34,9 @@ Crime Trends in Austin: Seasonal Insights from 2003 to 2023
 1 Pandas
 2 Numpy
 3 Matplotlib, Google Map API for Visualization
+
+
+## Hypothesis
 
 ## Our Findings
 

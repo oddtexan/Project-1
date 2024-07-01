@@ -1,3 +1,4 @@
 File Link : https://drive.google.com/drive/folders/1Ga2F-Dt_YLs_2JUaecCbOP7RmP-l-UH8?usp=drive_link
+Date of csv download: 6/202/2024
 
-Original Source Link: https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/about_data
+Source: https://data.austintexas.gov/Public-Safety/Crime-Reports/fdj4-gpfu/about_data

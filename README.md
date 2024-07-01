@@ -2,8 +2,8 @@
 Crime Trends in Austin: Seasonal Insights from 2003 to 2023
 
 ## Our Team 
-* Julie Ramsey (Data Pull and Auto Analysis)
-* Prashant Chintakindi (Identity Theft Analysis,Report and Readme)
+* Julie Ramsey (Data and Auto Analysis)
+* Prashant Chintakindi (Identity Theft Analysis, Report and Readme)
 * Sarah Dutton (Crime Analysis and Statitical Analysis)
      
 ## Project Description
@@ -21,10 +21,10 @@ See included PowerPoint for summary of key findings and visualizations.
 <https://data.austintexas.gov> (Crime Type, Occurance Dates). More details are available inside the Data folder of repo.
 
 ## Breakdown of Tasks
-1 Get Datasets for Austin Crime
-2 Clean the datasets. Keep only data between year 2003 to 2023.
-3 Breakdown & Analyze Data Sets.
-4 Identity Theft Analysis
+* 1 Get Datasets for Austin Crime
+* 2 Clean the datasets. Keep only data between year 2003 to 2023.
+* 3 Breakdown & Analyze Data Sets.
+* 4 Identity Theft Analysis
 5 Crime Analysis
 6
 7

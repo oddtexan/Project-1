@@ -29,21 +29,22 @@ See included PowerPoint for summary of key findings and visualizations.
 6. Identity Theft Analysis
 7. Conclusion
 
-
 ## Tools and Techniques:
-1 Pandas
-2 Numpy
-3 Matplotlib, Google Map API for Visualization
-
+1. Pandas
+2. Numpy
+3. Matplotlib
 
 ## Hypothesis
+H-Null: If seasons are not related to different drimes, then Winter months will not see an increase in crimes.
+H-Alt: If seasons are related to different drimes, then Winter months will show an increase in crimes.
 
 ## Our Findings
-
-
+* Seasons do influence crime in residential burglaries, auto thefts, bicycle thefts, and identity theft.
+* Seasons do NOT impact shoplifting incidences
+* The total number of crimes have been steadily decreasing.
+* Overall, Austin may not necessarily be a violent city. This study might lend itself better to cities where violent crime is a major problem like Chicago.
 
 ## References:
-
 - Data for this dataset was taken from public data shared by Austintexas.gov and is being used for educational purposes only.
 - Chatgpt used to improve logic, error correction and generate sections of code.
 - Google/Stack Overflow to get syntax for adapting to code.

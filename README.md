@@ -20,6 +20,14 @@ See included PowerPoint for summary of key findings and visualizations.
 ## Data Source
 <https://data.austintexas.gov> (Crime Type, Occurance Dates). More details are available inside the Data folder of repo.
 
+## Resources
+1. Python Documentation and Tutorials
+2. Python Libraries and Packages
+3. Development Tools: Visual Studio Code
+4. Version Control: Git and Github
+5. Collaboration and Communication: Slack and Zoom
+6. Instructional Staff: Travis Hopkins (Instructor) and Kian Layson (TA)      
+
 ## Breakdown of Tasks
 1. Get Datasets for Austin Crime
 2. Clean the datasets. Keep only data between year 2003 to 2023.

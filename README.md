@@ -35,8 +35,8 @@ See included PowerPoint for summary of key findings and visualizations.
 3. Matplotlib
 
 ## Hypothesis
-H-Null: If seasons are not related to different drimes, then Winter months will not see an increase in crimes.
-H-Alt: If seasons are related to different drimes, then Winter months will show an increase in crimes.
+* H-Null: If seasons are not related to different drimes, then Winter months will not see an increase in crimes.
+* H-Alt: If seasons are related to different drimes, then Winter months will show an increase in crimes.
 
 ## Our Findings
 * Seasons do influence crime in residential burglaries, auto thefts, bicycle thefts, and identity theft.
